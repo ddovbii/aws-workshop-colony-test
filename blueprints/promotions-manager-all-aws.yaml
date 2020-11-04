@@ -16,8 +16,8 @@ inputs:
 - PORT: 3000
 - API_PORT: 3001
 - AWS_INSTANCE_TYPE: m5.large
-- RELEASE_NUMBER: none
-- API_BUILD_NUMBER: none
+- RELEASE_NUMBER: 2
+- API_BUILD_NUMBER: 3
 - DB_USERNAME: adminuser
 - DB_PASSWORD: 
     display_style: masked
